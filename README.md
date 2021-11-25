@@ -43,5 +43,5 @@ and make fashion more accessible to the mass. However, should high fashion becom
 After making a reserch abour AR and 3D modeling in fashion. I decided to come with a simple 3D dress in Blender, using open-source file I found the female body. 
 ![Untitled 001](https://user-images.githubusercontent.com/95028399/143462390-facec5c9-fc42-42d1-aed6-3986ac78145f.jpeg)
 
-My next steps were to amnimate the model as well and adjust the dress to the walking figure. 
+My next steps were to animate the model as well and adjust the dress to the walking figure. 
 
