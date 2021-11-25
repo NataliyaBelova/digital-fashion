@@ -47,6 +47,7 @@ My next steps were to animate a catwalk and then adjust the dress to the moving 
 
 https://user-images.githubusercontent.com/95028399/143503666-e758525e-d48f-4ace-b046-6d99ab16864d.mov
 
-3D Body that I used for the animation:(https://www.cgtrader.com/free-3d-models/character/anatomy/realistic-white-male-and-female-low-poly)
+3D Body that I used for the animation:
+https://www.cgtrader.com/free-3d-models/character/anatomy/realistic-white-male-and-female-low-poly
 
 
