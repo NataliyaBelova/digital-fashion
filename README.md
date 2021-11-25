@@ -38,6 +38,8 @@ and make fashion more accessible to the mass. However, should high fashion becom
 5. https://www.showstudio.com/news/iodf-create-a-virtual-reality-to-spotlight-richard-quinns-latest-collaboration 
 6. https://www.luxuo.com/style/fashion/how-digitalisation-has-made-luxury-brands-more-accessible.html
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 After making a reserch abour AR and 3D modeling in fashion. I decided to come with a simple 3D dress in Blender, using open-source file I found the female body. 
 ![alt text] 
 
