@@ -19,7 +19,7 @@ a new collection using AR and 3D printing. The "runway" was transformed into an 
 meanwhile, the viewers could use their phones to see the garment on a bigger scale through AR. Therefore, by breaking the boundaries 
 of the traditional fashion industry viewers could get an alternative perspective of looking at the high fashion items. 
 
-London Institute of Digital Fashion (IoDF) works in a similar direction as FINCH. For London Fashion Week in September 2021, 
+Institute of Digital Fashion (IoDF) works in a similar direction as FINCH. For London Fashion Week in September 2021, 
 IoDF created an augmented reality to spotlight the latest Richard Quinn’s collaboration with Royal Salute. The whole runway was turned into 
 an Instagrammable digital playground. This project aimed to break the old paradigm and make the fashion landscape more accessible to the mass. 
 AR and technologies can deliver a new way of engaging with fashion, learning about it, consuming it more innovatively and sustainably. 
